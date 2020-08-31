@@ -2,9 +2,8 @@
 title: Art of blog for artists
 author: Vineeth
 date: 2020-08-31
-hero: ./images/hero.jpg
-excerpt: The main problem that the art community now a days face is exposure. Being an artist myself, I know how hard it is to
-gather enough
+hero: ./images/header.jpg
+excerpt: The main problem that the art community now a days face is exposure. Being an artist myself, I know how hard it is to gather enough
 ---
 
 ## App Description (Problem Statement and Solution) :
