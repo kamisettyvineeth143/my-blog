@@ -2,7 +2,7 @@
 title: Business idea for marketable
 author: Vineeth
 date: 2020-08-31
-hero: ./images/header.jpg
+hero: ./images/hero.jpg
 excerpt: The Internet of Things is one of the global trends in business and innovation. You can hardly find an industry that will not be affected by IoT. 
 ---
 
